@@ -1,0 +1,9 @@
+#SCRIPT MADE BY TARMO
+ethernet0.present = "TRUE"
+ethernet0.virtualDev = "vmxnet3"
+ethernet0.connectionType = "custom"
+ethernet0.addressType = "generated"
+ethernet0.wakeonpcktrcv = "true"
+ethernet0.allowguestconnectioncontrol = "true"
+ethernet0.vnet = "VMnet1"
+ethernet0.displayName = "VMnet1"
